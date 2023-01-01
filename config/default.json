@@ -1,0 +1,10 @@
+{
+    "elastic": {
+      "elasticsearch_endpoint": "https://localhost:9200",
+      "username": "elastic",
+      "password": "-pK6Yth+mU8O-f+Q*F3i",
+      "apiKey": "eVBKOFhJVUJUN1gwSDQyLU5halY6R1BVRjNOUmpRYUtkTmpXTUZHdWZVUQ==",
+      "certificate": "/Users/liuxg/elastic/elasticsearch-8.5.3/config/certs/http_ca.crt",
+      "caFingerprint": "E3D36275D9FA80CF96F74E6537FC74E7952511A75E01605EBCFB8FC9F08F598C"
+    }
+  }
